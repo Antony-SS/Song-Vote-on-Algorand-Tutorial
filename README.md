@@ -4,7 +4,7 @@ I don’t like getting caught up in formality.  I’ll keep the tone of this tut
 
 Below are all the resources and repositories for this project.
 
-1. [My final product dapp website](https://song-vote-algorand-final-frontend.antony-ss.repl.co/)
+1. [My final product - website](https://song-vote-algorand-final-frontend.antony-ss.repl.co/)
 2. [Github for final product - Frontend](https://github.com/Antony-SS/Song-Vote-Algorand-Final-Frontend)
 3. [Github for my final product - Backend](https://github.com/Antony-SS/Song-Vote-Algorand-Final-Backend)
 4. [Github for starter code template - Backend](https://github.com/Antony-SS/Final-Template-Backend-Algorand-SongVote.git)
